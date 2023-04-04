@@ -1,2 +1,2 @@
-# biocertificado
-Colegio de Biologos
+# colegio_biologos
+Proyecto del Colegio de Biologos

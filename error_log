@@ -1,0 +1,78 @@
+[24-May-2022 22:20:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in /home/u848926610/domains/biocertificado.com/public_html/html/colegio/conf/conf.php:21
+Stack trace:
+#0 /home/u848926610/domains/biocertificado.com/public_html/html/colegio/conf/conf.php(21): PDO->__construct('mysql:host=loca...', 'root', 'Dominio@2022', Array)
+#1 /home/u848926610/domains/biocertificado.com/public_html/html/colegio/index.php(2): include_once('/home/u84892661...')
+#2 {main}
+  thrown in /home/u848926610/domains/biocertificado.com/public_html/html/colegio/conf/conf.php on line 21
+[24-May-2022 22:20:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in /home/u848926610/domains/biocertificado.com/public_html/html/colegio/conf/conf.php:21
+Stack trace:
+#0 /home/u848926610/domains/biocertificado.com/public_html/html/colegio/conf/conf.php(21): PDO->__construct('mysql:host=loca...', 'root', 'Dominio@2022', Array)
+#1 /home/u848926610/domains/biocertificado.com/public_html/html/colegio/index.php(2): include_once('/home/u84892661...')
+#2 {main}
+  thrown in /home/u848926610/domains/biocertificado.com/public_html/html/colegio/conf/conf.php on line 21
+[24-May-2022 22:20:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in /home/u848926610/domains/biocertificado.com/public_html/html/colegio/conf/conf.php:21
+Stack trace:
+#0 /home/u848926610/domains/biocertificado.com/public_html/html/colegio/conf/conf.php(21): PDO->__construct('mysql:host=loca...', 'root', 'Dominio@2022', Array)
+#1 /home/u848926610/domains/biocertificado.com/public_html/html/colegio/index.php(2): include_once('/home/u84892661...')
+#2 {main}
+  thrown in /home/u848926610/domains/biocertificado.com/public_html/html/colegio/conf/conf.php on line 21
+[24-May-2022 22:20:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in /home/u848926610/domains/biocertificado.com/public_html/html/colegio/conf/conf.php:21
+Stack trace:
+#0 /home/u848926610/domains/biocertificado.com/public_html/html/colegio/conf/conf.php(21): PDO->__construct('mysql:host=loca...', 'root', 'Dominio@2022', Array)
+#1 /home/u848926610/domains/biocertificado.com/public_html/html/colegio/index.php(2): include_once('/home/u84892661...')
+#2 {main}
+  thrown in /home/u848926610/domains/biocertificado.com/public_html/html/colegio/conf/conf.php on line 21
+[24-May-2022 22:25:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in /home/u848926610/domains/biocertificado.com/public_html/conf/conf.php:21
+Stack trace:
+#0 /home/u848926610/domains/biocertificado.com/public_html/conf/conf.php(21): PDO->__construct('mysql:host=loca...', 'root', 'Dominio@2022', Array)
+#1 /home/u848926610/domains/biocertificado.com/public_html/index.php(2): include_once('/home/u84892661...')
+#2 {main}
+  thrown in /home/u848926610/domains/biocertificado.com/public_html/conf/conf.php on line 21
+[24-May-2022 22:25:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in /home/u848926610/domains/biocertificado.com/public_html/conf/conf.php:21
+Stack trace:
+#0 /home/u848926610/domains/biocertificado.com/public_html/conf/conf.php(21): PDO->__construct('mysql:host=loca...', 'root', 'Dominio@2022', Array)
+#1 /home/u848926610/domains/biocertificado.com/public_html/index.php(2): include_once('/home/u84892661...')
+#2 {main}
+  thrown in /home/u848926610/domains/biocertificado.com/public_html/conf/conf.php on line 21
+[24-May-2022 22:25:45 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in /home/u848926610/domains/biocertificado.com/public_html/conf/conf.php:21
+Stack trace:
+#0 /home/u848926610/domains/biocertificado.com/public_html/conf/conf.php(21): PDO->__construct('mysql:host=loca...', 'root', 'Dominio@2022', Array)
+#1 /home/u848926610/domains/biocertificado.com/public_html/index.php(2): include_once('/home/u84892661...')
+#2 {main}
+  thrown in /home/u848926610/domains/biocertificado.com/public_html/conf/conf.php on line 21
+[24-May-2022 22:25:53 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in /home/u848926610/domains/biocertificado.com/public_html/conf/conf.php:21
+Stack trace:
+#0 /home/u848926610/domains/biocertificado.com/public_html/conf/conf.php(21): PDO->__construct('mysql:host=loca...', 'root', 'Dominio@2022', Array)
+#1 /home/u848926610/domains/biocertificado.com/public_html/index.php(2): include_once('/home/u84892661...')
+#2 {main}
+  thrown in /home/u848926610/domains/biocertificado.com/public_html/conf/conf.php on line 21
+[24-May-2022 22:39:25 UTC] PHP Fatal error:  Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u848926610/domains/biocertificado.com/public_html/conf/conf.php:21
+Stack trace:
+#0 /home/u848926610/domains/biocertificado.com/public_html/conf/conf.php(21): PDO->__construct('mysql:host=http...', 'u848926610_root', 'Dominio@2022', Array)
+#1 /home/u848926610/domains/biocertificado.com/public_html/index.php(2): include_once('/home/u84892661...')
+#2 {main}
+
+Next PDOException: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u848926610/domains/biocertificado.com/public_html/conf/conf.php:21
+Stack trace:
+#0 /home/u848926610/domains/biocertificado.com/public_html/conf/conf.php(21): PDO->__construct('mysql:host=http...', 'u848926610_root', 'Dominio@2022', Array)
+#1 /home/u848926610/domains/biocertificado.com/public_html/index.php(2): include_once('/home/u84892661...')
+#2 {main}
+  thrown in /home/u848926610/domains/biocertificado.com/public_html/conf/conf.php on line 21
+[24-May-2022 22:39:31 UTC] PHP Fatal error:  Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u848926610/domains/biocertificado.com/public_html/conf/conf.php:21
+Stack trace:
+#0 /home/u848926610/domains/biocertificado.com/public_html/conf/conf.php(21): PDO->__construct('mysql:host=http...', 'u848926610_root', 'Dominio@2022', Array)
+#1 /home/u848926610/domains/biocertificado.com/public_html/index.php(2): include_once('/home/u84892661...')
+#2 {main}
+
+Next PDOException: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u848926610/domains/biocertificado.com/public_html/conf/conf.php:21
+Stack trace:
+#0 /home/u848926610/domains/biocertificado.com/public_html/conf/conf.php(21): PDO->__construct('mysql:host=http...', 'u848926610_root', 'Dominio@2022', Array)
+#1 /home/u848926610/domains/biocertificado.com/public_html/index.php(2): include_once('/home/u84892661...')
+#2 {main}
+  thrown in /home/u848926610/domains/biocertificado.com/public_html/conf/conf.php on line 21
+[24-May-2022 22:52:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'u848926610_root'@'212.107.17.195' (using password: YES) in /home/u848926610/domains/biocertificado.com/public_html/conf/conf.php:21
+Stack trace:
+#0 /home/u848926610/domains/biocertificado.com/public_html/conf/conf.php(21): PDO->__construct('mysql:host=212....', 'u848926610_root', 'Dominio@2022', Array)
+#1 /home/u848926610/domains/biocertificado.com/public_html/index.php(2): include_once('/home/u84892661...')
+#2 {main}
+  thrown in /home/u848926610/domains/biocertificado.com/public_html/conf/conf.php on line 21

@@ -1,0 +1,14 @@
+RewriteEngine On
+
+RewriteRule ^colegio_biologos/?$ 					index.php
+RewriteRule ^colegio_biologos/(\w+)?$ 		index.php?accion=$1
+RewriteRule ^/?$													index.php
+RewriteRule ^administrador/$							administrador/view_dashboard.php
+RewriteRule ^mod_colegiados/$							mod_colegiados/view_colegiados.php
+RewriteRule ^mod_colegiados/nuevo					mod_colegiados/view_nuevo_colegiado.php
+RewriteRule ^login-usuarios/?$						mod_usuarios/view_login_usu.php
+RewriteRule ^mod_pagos/?$									mod_pagos/view_pagos.php
+RewriteRule ^mod_morosidad/$						mod_morosidad/view_rpt_morosidad.php
+RewriteRule ^mod_certificados/$						mod_certificados/total_certificados.php
+RewriteRule ^mod_colegiatura/$						mod_colegiatura/view_colegiatura.php
+RewriteRule ^mod_edit_colegiatura/$						mod_edit_colegiatura/edit_view_edit_colegiatura.php
